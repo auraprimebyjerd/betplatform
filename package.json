@@ -1,0 +1,12 @@
+{
+  "name": "bet-platform",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Production Sports Betting Platform",
+  "license": "MIT",
+  "scripts": {
+    "dev": "echo \"Project setup in progress\"",
+    "build": "echo \"Build coming soon\"",
+    "start": "echo \"Starting project\""
+  }
+}
